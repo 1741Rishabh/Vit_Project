@@ -1,4 +1,4 @@
-import logo from '../../assets/Img/vit-logo-1.png'
+import logo from '../../assets/img/vit-logo-1.png'
 import './Navbar.css'
 function Navbar()
 {

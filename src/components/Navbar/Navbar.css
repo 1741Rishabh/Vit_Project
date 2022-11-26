@@ -1,5 +1,5 @@
-@media only screen and (min-width: 350px){
-    /*Small smartphones [325px -> 425px]*/
+@media only screen and (min-width: 325px){
+    
     .nav{
         display: flex;
         align-items: center;
