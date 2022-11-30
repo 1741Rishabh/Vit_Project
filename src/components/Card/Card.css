@@ -1,0 +1,21 @@
+.my-card{
+    border-radius: 1rem;
+    width: 300px;
+    height: 400px;
+    margin: 0 1rem 0 1rem;
+    
+}
+.my-card > img{
+    width: 100%;
+    border-radius: 10px;
+    height: 200px;
+}
+.my-cardTitle > h1{
+    width: 90%;
+    margin: 10px auto 0 auto;
+}
+.my-cardTitle >p{
+    width: 90%;
+    margin: 0 auto 0 auto;
+
+}

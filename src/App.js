@@ -1,11 +1,11 @@
-import Navbar from "./components/Navbar/Navbar";
-import MyCalendar from "./components/MyCalendar/MyCalendar";
+
+import Department from "./pages/Department/Department";
 
 function App() {
   return (
     <div className="">
-     <Navbar/>
-     <MyCalendar/>
+      <Department></Department>
+     
     </div>
   );
 }
